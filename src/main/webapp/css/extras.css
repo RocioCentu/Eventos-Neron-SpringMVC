@@ -1,0 +1,104 @@
+
+body {
+	
+ background-image: url(https://www.15club.com.ar/imgd/Up-Eventos-820706.jpg);
+ 
+}
+
+h2{
+	color: white;
+}
+.cuerpo {
+ background: #fff;
+ width: 900px;
+ margin: 60px auto;
+ border-radius: 10px;
+ font-family: Open Sans, sans-serif;
+ font-size: 14px;
+ color: #888;
+ padding: 20px;
+}
+
+.contenido {
+ width: 880px;
+ padding: 10px 10px 10px 10px;
+}
+
+
+aside {
+ width: 30%;
+ float: left;
+ text-align: left;
+ border: 1px solid #e98333;
+ padding: 10px;
+}
+
+section {
+ width: 63%;
+ float: right;
+ text-align: left;
+ margin-left: 5px;
+ border: 1px solid #e98333;
+ padding: 10px;
+}
+
+
+
+a,
+a:link,
+a:active,
+a:visited {
+ -webkit-transition: color 0.3s ease-in-out;
+ -moz-transition: color 0.3s ease-in-out;
+ -o-transition: color 0.3s ease-in-out;
+ transition: color 0.3s ease-in-out;
+ text-decoration: none;
+ color: #e98333;
+}
+
+a:hover {
+ color: #80ff80;
+}
+
+table{
+	color: #ffff80;
+}
+
+
+
+
+b,
+u {
+ color: #ffffff;
+}
+
+::selection {
+ color: #000;
+ background-color: #f1f1f1;
+}
+
+::-moz-selection {
+ color: #000;
+ background-color: #f1f1f1;
+}
+	
+button{
+
+background: #d7fafd;
+
+color: black;
+
+border-style: outset;
+
+border-color: #baf7fc;
+
+height: 50px;
+
+width: 150px;
+
+font: bold 15px arial, sans-serif;
+
+text-shadow:none;
+
+}
+
